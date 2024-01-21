@@ -9,3 +9,12 @@ h1{
   font-size: larger;
   color: azure;
 }
+p{
+  text-align: center;
+  font-size: larger;
+  color: rgb(120, 212, 248);
+  cursor: pointer;
+}
+p:hover{
+  color: brown;
+}
